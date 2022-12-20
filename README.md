@@ -1,6 +1,6 @@
 ### Olá, Olá...👋
 
-Ainda desenvolvendo o meu perfil :smile:
+Ainda estou desenvolvendo o meu perfil :smile:
 
 
 <p align="center">
