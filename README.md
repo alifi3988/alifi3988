@@ -4,7 +4,6 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alifi-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alifi-santos" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alifi_augusto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="alifi_augusto" height="30" width="40" /></a>
 <a href="https://discord.gg/C66KAT8Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alifi3988#9500" height="30" width="40" /></a> </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
